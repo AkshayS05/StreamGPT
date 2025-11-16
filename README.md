@@ -2,6 +2,7 @@
 
 - Vite App
 - configure tailwind css
+- Header
 
 # Features
 
@@ -11,6 +12,9 @@
 - Browse (after authentication)
 
   - Header
+  - Login Form
+  - Sign Up Form
+
   - Main Movie
     - Trailer in Background
     - Title & Description
